@@ -8,13 +8,13 @@ My name is Ire, and I'm embarking on an exciting journey as a junior software de
 # Technical Skills
 
 ## Languages
-- ![HTML5]![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](URL_to_CSS3_logo)
-- ![JavaScript](URL_to_JavaScript_logo)
-- ![Python](URL_to_Python_logo)
+- ![HTML5] ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3] ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript] ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Python] ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Frameworks & Libraries
-- ![Bootstrap](URL_to_Bootstrap_logo)
+- ![Bootstrap] ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 - ![jQuery](URL_to_jQuery_logo)
 - ![Flask](URL_to_Flask_logo)
 - ![Django](URL_to_Django_logo)
