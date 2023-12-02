@@ -8,7 +8,7 @@ My name is Ire, and I'm embarking on an exciting journey as a junior software de
 # Technical Skills
 
 ## Languages
-- ![HTML5](![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white))
+- ![HTML5]![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](URL_to_CSS3_logo)
 - ![JavaScript](URL_to_JavaScript_logo)
 - ![Python](URL_to_Python_logo)
