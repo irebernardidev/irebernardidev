@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hello World! 👋
 
-<!--
-**irebernardidev/irebernardidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ire, and I'm embarking on an exciting journey as a junior software developer. The thrill of tackling challenges and crafting tangible solutions through websites, applications, and software truly captivates me. There's nothing quite as satisfying as witnessing your creations come to life. Take a peek at my pinned repositories to explore the projects I've poured my heart into!
 
-Here are some ideas to get you started:
+📫 Let's get in touch: [Ire on LinkedIn](linkedin.com/in/irene-bernardi-4460b81bb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Technical Skills
+
+## Languages
+- ![HTML5](URL_to_HTML5_logo)
+- ![CSS3](URL_to_CSS3_logo)
+- ![JavaScript](URL_to_JavaScript_logo)
+- ![Python](URL_to_Python_logo)
+
+## Frameworks & Libraries
+- ![Bootstrap](URL_to_Bootstrap_logo)
+- ![jQuery](URL_to_jQuery_logo)
+- ![Flask](URL_to_Flask_logo)
+- ![Django](URL_to_Django_logo)
+
+## Database Management
+- ![MongoDB](URL_to_MongoDB_logo)
+- ![Postgres](URL_to_Postgres_logo)
+
+## Version Control
+- ![Git](URL_to_Git_logo)
+- ![GitHub](URL_to_GitHub_logo)
+- ![Gitpod](URL_to_Gitpod_logo)
+
+## Design
+- ![Figma](URL_to_Figma_logo)
