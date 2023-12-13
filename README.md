@@ -2,7 +2,7 @@
 
 My name is Ire, and I'm embarking on an exciting journey as a junior software developer. The thrill of tackling challenges and crafting tangible solutions through websites, applications, and software truly captivates me. There's nothing quite as satisfying as witnessing your creations come to life. Take a peek at my pinned repositories to explore the projects I've poured my heart into!
 
-📫 Let's get in touch: [Ire on LinkedIn](linkedin.com/in/irene-bernardi-4460b81bb)
+📫 Let's get in touch: [Ire on LinkedIn](https://www.linkedin.com/in/irene-bernardi-4460b81bb/)
 
 
 # Technical Skills
